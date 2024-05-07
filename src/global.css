@@ -3,6 +3,25 @@
 @tailwind utilities;
 
 :root {
+  /* Grayscale */
+  --Grayscale-10: #FFFFFF;
+  --Grayscale-20: #F9F9F9;
+  --Grayscale-30: #CFCFCF;
+  --Grayscale-40: #818181;
+  --Grayscale-50: #515151;
+  --Grayscale-60: #000000;
+
+  /* Brown */
+  --Brown-10: #F5F1EE;
+  --Brown-20: #E4D5C9;
+  --Brown-30: #C7BBB5;
+  --Brown-40: #542F1A;
+  --Brown-50: #341909;
+  
+  /* Blue, Yellow, Red  */
+  --Blue-50: #1877F2;
+  --Yellow-50: #FEE500;
+  --Red-50: #B93333;
 }
 
 * {
